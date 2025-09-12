@@ -9,7 +9,7 @@ Me chamo Joélicy Sabrina Gonçalves de Arruda, tenho 16 anos e sou de São Paul
         <img 
             alt="instagram inscritos" 
             title="Siga minha conta" 
-            src="https://custom-icon-badges.demolab.com/badge/instagram-pink.svg?label=Seguir&logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630""
+            src="https://custom-icon-badges.demolab.com/badge/instagram-pink.svg?logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630""
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
