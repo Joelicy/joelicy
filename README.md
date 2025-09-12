@@ -7,9 +7,9 @@ Me chamo Joélicy Sabrina Gonçalves de Arruda, tenho 16 anos e sou de São Paul
 <p align="left">
     <a href="https://www.instagram.com/jol_colbie/?next=%2F">
         <img 
-            alt="instagram subscribers" 
-            title="Inscreva-se na minha conta" 
-            src="https://custom-icon-badges.demolab.com/color=FF8DA1&label=seguir&logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="instagram inscritos" 
+            title="Siga minha conta" 
+            src="https://custom-icon-badges.demolab.com/badge/instagram-pink.svg?logo=instagram&logoSource=feather"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
