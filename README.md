@@ -19,7 +19,7 @@ Me chamo Joélicy Sabrina Gonçalves de Arruda, tenho 16 anos e sou de São Paul
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=linkedin.svg&style=for-the-badge"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Joelicy?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
