@@ -7,16 +7,16 @@ Me chamo Joélicy Sabrina Gonçalves de Arruda, tenho 16 anos e sou de São Paul
 <p align="left">
     <a href="https://www.instagram.com/jol_colbie/?next=%2F">
         <img 
-            alt="instagram inscritos" 
+            alt="instagram" 
             title="Siga minha conta" 
             src="https://custom-icon-badges.demolab.com/badge/Instagram-pink.svg?logo=instagram&logoColor=black&style=for-the-badge"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.linkedin.com/in/jo%C3%A9licy-arruda-2a2813315/?trk=opento_sprofile_details">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="linkedin" 
+            title="siga-me no Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=linkedin&logoColor=white&style=for-the-badge"
         />
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
