@@ -16,7 +16,7 @@ Me chamo Joélicy Sabrina Gonçalves de Arruda, tenho 16 anos e sou de São Paul
         <img 
             alt="linkedin" 
             title="siga-me no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=linkedin.svg&logoColor=white&style=for-the-badge"
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue.svg?logo=linkedin.svg&logoColor=black&style=for-the-badge"
         />
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
