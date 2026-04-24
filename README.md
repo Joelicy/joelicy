@@ -5,7 +5,7 @@
 Me chamo Joélicy Sabrina Gonçalves de Arruda, tenho 17 anos e sou de São Paulo. Estou concluindo o ensino médio no UNASP-HT, com o curso técnico em informática. 
 
 <p align="left">
-    <a href="https://www.instagram.com/jol_colbie/?next=%2F">
+    <a href="https://www.instagram.com/joelicy.arruda/?next=%2F">
         <img 
             alt="instagram" 
             title="Siga minha conta" 
