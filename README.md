@@ -2,7 +2,7 @@
 
 **`Desenvolvedora web junior`**
 
-Me chamo Joélicy Sabrina Gonçalves de Arruda, tenho 16 anos e sou de São Paulo. Estou concluindo o ensino médio no UNASP-HT, com o curso técnico em informática. 
+Me chamo Joélicy Sabrina Gonçalves de Arruda, tenho 17 anos e sou de São Paulo. Estou concluindo o ensino médio no UNASP-HT, com o curso técnico em informática. 
 
 <p align="left">
     <a href="https://www.instagram.com/jol_colbie/?next=%2F">
